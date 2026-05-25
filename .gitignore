@@ -1,0 +1,10 @@
+# Get latest from https://github.com/github/gitignore
+#
+
+# SSL
+ca
+server
+*.crt
+*.csr
+*.key
+*.srl
